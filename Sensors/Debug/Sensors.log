@@ -1,0 +1,6 @@
+﻿  Sensors.cpp
+E:\Python\Sensors\Sensors\Sensors.cpp(53,26): warning C4018: '<': signed/unsigned mismatch
+E:\Python\Sensors\Sensors\Sensors.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+E:\Python\Sensors\Sensors\Sensors.cpp(121,34): warning C4018: '<': signed/unsigned mismatch
+E:\Python\Sensors\Sensors\Sensors.cpp(133,39): warning C4553: '==': result of expression not used; did you intend '='?
+  Sensors.vcxproj -> E:\Python\Sensors\Debug\Sensors.exe
